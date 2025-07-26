@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
-import profileImg from '/Users/sugatathawale/Downloads/My-portfolio-main/src/assets/yash.jpg';
+import profileImg from '../../../src/assets/yash.jpg';
 
 
 

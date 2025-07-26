@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import profile_img from "/Users/sugatathawale/Downloads/My-portfolio-main/src/assets/yash2.jpg";
+import profile_img from "../../../src/assets/yash2.jpg";
 
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
